@@ -24,11 +24,22 @@ The application is implemented in **Java**, and it manages a 2D seating array wh
 
 Follow these steps to clone and run the project locally:
 
-### 1. Clone the repository
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Thiveya-Ratnarajah/plane-reservation-management.git
 
-To clone this project to your local machine, run the following command:(```bash
+2. Navigate to the project directory:
 
-git clone https://github.com/your-username/plane-reservation-management.git```)
+   ```
+   cd plane-reservation-management
+
+3. Open the project in IntelliJ IDEA
+   - Launch **IntelliJ IDEA**.
+   - Navigate to **File > Open...** and select the cloned project directory.
+
+4. Run the project
+   - Open the main class file located in `src/main/java`.
+   - Right-click on the file and select **Run**.
 
 
 ### 4. Run the Program
